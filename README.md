@@ -1,16 +1,24 @@
-## Hi! My Name is Gianna👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gianna+D'Aconti!;" />
+</h1>
+
+<br/>
+
+<div align="center">
 
 👩🏻‍💻 Full Stack Software Engineer | MERN & JavaScript
-
-☕ Code. Coffee. Repeat.
-
-🚀 Software Engineer by day, bug exterminator by night
 
 ⚡ Passionate about clean code, intuitive UI, and scalable solutions
 
 🎬 Ex-filmmaker crafting digital experiences instead of movies
 
+🚀 Software Engineer by day, bug exterminator by night
+
 🌱 Always learning, always building
+
+☕ Coffee. Code. Repeat.
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodeCourtAce&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) <br> 
