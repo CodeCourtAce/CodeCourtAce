@@ -25,6 +25,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeCourtAce&theme=ambient_gradient&hide_border=false)   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCourtAce&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![CodeCourtAce-space-shooter](https://github.com/user-attachments/assets/bd5d1bbf-7126-499d-b68b-f6bcf37dde9f)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeCourtAce&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
