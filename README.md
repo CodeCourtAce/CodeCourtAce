@@ -6,13 +6,9 @@
 
 <div align="center">
 
-👩🏻‍💻 Full Stack Software Engineer | MERN & JavaScript
+👩🏻‍💻 Full Stack Software Engineer
 
 ⚡ Passionate about clean code, intuitive UI, and scalable solutions
-
-🎬 Ex-filmmaker crafting digital experiences instead of movies
-
-🚀 Software Engineer by day, bug exterminator by night
 
 🌱 Always learning, always building
 
